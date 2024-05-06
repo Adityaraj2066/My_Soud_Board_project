@@ -1,1 +1,2 @@
 # My_Soud_Board_project
+The Sound Board Showcase is an interactive web application that offers a delightful exploration of Six Types of sound boards, crafted using HTML, CSS, and JavaScript. Designed for both entertainment and practical use like an abundance of audience applause  and other assorted sounds. This project allows users to immerse themselves in a rich collection of audio samples, ranging from musical instruments to ambient sounds.This project is currently  progress.
